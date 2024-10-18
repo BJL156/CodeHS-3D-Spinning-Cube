@@ -23,5 +23,10 @@ Hold the `enter` key in order to advance to the next frame.
   - Animation in general
   - Model
 
+# How to run
+1. Paste contents from `main.cpp` into whatever IDE you use.
+2. Run program.
+3. Execute victory dance.
+
 idk how to center this image lol
 ![image](https://github.com/user-attachments/assets/598b0657-b97e-42b3-b4eb-8a9ad32ff06b)
