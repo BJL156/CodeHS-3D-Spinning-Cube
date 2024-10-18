@@ -4,6 +4,7 @@
 #include <stdexcept>
 #include <algorithm>
 #include <chrono>
+#include <string>
 
 #define PI 3.14159265358979323846
 
