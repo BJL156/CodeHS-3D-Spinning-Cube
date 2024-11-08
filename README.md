@@ -1,10 +1,12 @@
+**Hold the `enter` key in order to advance to the next frame.**
+
 # CodeHS 3D Spinning Cube
 A 3D spinning cube made from scratch that was entirely written during school in C++.
 
 # About
 A simple one file program that renders a 3D spinning cube to the console. There were absolutely zero external libraries used for this program.
 
-Hold the `enter` key in order to advance to the next frame.
+**Hold the `enter` key in order to advance to the next frame.**
 
 # Features
 - Hold `enter` to rotate
